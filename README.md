@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img src="images/logo_footer.png" alt="Meghdoot Resort Logo" height="80"/>
+<img src="images/logo_footer.png" alt="Meghdoot Resort Logo" height="150"/>
 
-# Vromon Sathi
+#    Vromon Sathi
 [![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=flat-square&logo=php&logoColor=white)](https://php.net)
 [![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
