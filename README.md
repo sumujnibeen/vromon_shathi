@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="images/logo_footer.png" alt="Meghdoot Resort Logo" height="150"/>
+<img src="images/logo_footer.png" alt="Vromon Sathi Logo" height="150"/>
 
 #    Vromon Sathi
 [![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=flat-square&logo=php&logoColor=white)](https://php.net)
