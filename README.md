@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://mrms.xo.je/images/logo.png" alt="Meghdoot Resort Logo" height="80"/>
+<img src="images/logo.png" alt="Meghdoot Resort Logo" height="80"/>
 
 # Vromon Sathi
 [![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=flat-square&logo=php&logoColor=white)](https://php.net)
